@@ -37,3 +37,5 @@ Je travaille principalement sur le backend, avec une expérience également sur 
 - Développement web
 - Veille technologique PHP / Symfony
 - Amélioration continue des pratiques de développement
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
