@@ -4,7 +4,7 @@ Développeur web PHP / Symfony avec plusieurs années d'expérience dans le dév
 
 Je travaille principalement sur le backend, avec une expérience également sur les interfaces frontend et les API.
 
-Technologies utilisées :
+## Technologies utilisées :
 
 - PHP / Symfony
 - Doctrine ORM
@@ -13,7 +13,7 @@ Technologies utilisées :
 - JavaScript / jQuery
 - Angular / TypeScript
 
-Outils et environnement :
+## Outils et environnement :
 
 - Git / GitHub
 - Composer
@@ -24,7 +24,7 @@ Outils et environnement :
 - Linux
 - PhpStorm / Visual Studio Code
 
-Formation et veille technique :
+## Formation et veille technique :
 
 - Symfony moderne
 - PHP orienté objet
@@ -32,7 +32,7 @@ Formation et veille technique :
 - Architecture backend
 - Frameworks JavaScript modernes
 
-Centres d'intérêt :
+## Centres d'intérêt :
 
 - Développement web
 - Veille technologique PHP / Symfony
